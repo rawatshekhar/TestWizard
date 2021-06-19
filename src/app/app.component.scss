@@ -1,0 +1,105 @@
+.logo{
+    height: 8vh;
+    width: 10vh;
+  }
+  .carousel-item {
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .carousel-caption {
+    bottom: 270px;
+  }
+  
+  .carousel-caption h5 {
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 25px;
+  }
+  
+  .carousel-caption p {
+    width: 75%;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.9;
+  }
+  
+  .navbar-light .navbar-brand {
+    color: #fff;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+  
+  .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+    color: #fff;
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+    color: #fff;
+  }
+  
+  .navbar-toggler {
+    background: #fff;
+  }
+  
+  .navbar-nav {
+    text-align: center;
+  }
+  
+  .nav-link {
+    padding: .2rem 1rem;
+  }
+  
+  .nav-link.active,.nav-link:focus{
+    color: #fff;
+  }
+  
+  .navbar-toggler {
+    padding: 1px 5px;
+    font-size: 18px;
+    line-height: 0.3;
+  }
+  
+  .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #fff;
+  }
+  
+  #hero{    
+    color: #ffffff;
+  -webkit-text-stroke-color: #b99566;
+  -webkit-text-stroke-width: 3px; 
+    text-shadow: 2px 4px 3px rgba(46, 46, 46, 0.6);
+    font-size: 6vh!important;
+    font-family:'Libre Baskerville', serif; 
+  }
+  h3{
+    // font-weight: bolder;
+    color: #000000;
+    -webkit-text-stroke-color: #2b2b2b;
+    -webkit-text-stroke-width: 2px;
+    font-family:'Libre Baskerville', serif; 
+  }
+  
+  
+  
+  
+  .nav-link{
+    font-size: 1.2rem;
+  }
+  
+  .navbar {
+    overflow: hidden;
+    color: #000!important;
+    background-color: #ffffff!important;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
